@@ -1,0 +1,13 @@
+animal Bird Сова Ухает Мыши Пестро-серый
+animal Bird Ястреб Клекочет Утки Пестро-коричневый
+animal Bird Попугай Разговаривает Фрукты Разноцветный
+animal Mammal Тигр Рычит Мясо Оранжево-полосатый
+animal Mammal Медведь Ревёт Мясо Бурый
+animal Mammal Слон Трубит Овощи Серый
+animal Reptile Крокодил Лает Мясо Зеленый
+animal Reptile Варан Сипит Рыба Серо-зеленый
+animal Reptile Питон Шипит Лягушками Пятнистый
+worker ZooKeeper Николай 43 Мужской
+worker ZooKeeper Ольга 45 Женский
+worker Veterinarian Александр 35 Мужской
+worker Veterinarian Елена 30 Женский
